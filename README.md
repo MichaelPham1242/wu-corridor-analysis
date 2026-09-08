@@ -12,6 +12,7 @@ The checked-in notebook has been executed end to end. It contains 44 cells, incl
 - `WU_Roadmap_Source_Pack_manifest.json` — source-pack contents and coverage
 - `WU_Roadmap_Source_Pack_validation.json` — source-pack validation results
 - `outputs/` — generated Excel workbooks and figures from the verified run
+- `output/pdf/WU_Corridor_Analysis_Local.pdf` — complete 68-page landscape PDF export
 
 ## Run locally
 
