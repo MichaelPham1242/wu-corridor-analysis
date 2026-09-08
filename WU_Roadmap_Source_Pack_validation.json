@@ -1,0 +1,44 @@
+{
+  "zip_test": null,
+  "zip_members": 24,
+  "parquet_tables": 22,
+  "rows_total": 963977,
+  "manifest_statuses": {
+    "partial": 8,
+    "loaded": 6,
+    "missing": 5,
+    "reference": 1
+  },
+  "manifest_items": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "bilateral_rows": 8572,
+  "bilateral_unique_pairs": 8572,
+  "bilateral_years": [
+    "2024"
+  ],
+  "bilateral_flow_sum_usd": 893896853525.0,
+  "rpw_rows": 253960,
+  "rpw_period_min": "2011_1Q",
+  "rpw_period_max": "2025_3Q",
+  "rpw_pairs": 378
+}

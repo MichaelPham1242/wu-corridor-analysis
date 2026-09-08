@@ -1,0 +1,146 @@
+{
+  "archive": "C:\\Users\\micha\\OneDrive\\Documents\\ChatGPT\\alphasensecheck\\python_analysis\\outputs\\colab\\WU_Roadmap_Source_Pack.zip",
+  "archive_bytes": 45091514,
+  "tables": 22,
+  "tabular_records": 963977,
+  "roadmap_status_counts": {
+    "partial": 8,
+    "loaded": 6,
+    "missing": 5,
+    "reference": 1
+  },
+  "datasets": [
+    {
+      "dataframe": "rpw_history",
+      "rows": 253960,
+      "columns": 49,
+      "file": "rpw_history.parquet"
+    },
+    {
+      "dataframe": "bilateral_remittance_2024",
+      "rows": 8572,
+      "columns": 15,
+      "file": "bilateral_remittance_2024.parquet"
+    },
+    {
+      "dataframe": "wdi_remittances_wld_lmy",
+      "rows": 132,
+      "columns": 11,
+      "file": "wdi_remittances_wld_lmy.parquet"
+    },
+    {
+      "dataframe": "findex_microdata",
+      "rows": 144090,
+      "columns": 199,
+      "file": "findex_microdata.parquet"
+    },
+    {
+      "dataframe": "mexico_remittance_summary",
+      "rows": 3,
+      "columns": 13,
+      "file": "mexico_remittance_summary.parquet"
+    },
+    {
+      "dataframe": "wu_locations_global",
+      "rows": 435535,
+      "columns": 32,
+      "file": "wu_locations_global.parquet"
+    },
+    {
+      "dataframe": "miami_acs_demand_tracts",
+      "rows": 642,
+      "columns": 12,
+      "file": "miami_acs_demand_tracts.parquet"
+    },
+    {
+      "dataframe": "yucatan_population",
+      "rows": 2691,
+      "columns": 286,
+      "file": "yucatan_population.parquet"
+    },
+    {
+      "dataframe": "miami_access_distribution",
+      "rows": 27,
+      "columns": 16,
+      "file": "miami_access_distribution.parquet"
+    },
+    {
+      "dataframe": "yucatan_routes",
+      "rows": 698,
+      "columns": 15,
+      "file": "yucatan_routes.parquet"
+    },
+    {
+      "dataframe": "finabien_roster",
+      "rows": 1644,
+      "columns": 17,
+      "file": "finabien_roster.parquet"
+    },
+    {
+      "dataframe": "regulatory_agent_records",
+      "rows": 71533,
+      "columns": 35,
+      "file": "regulatory_agent_records.parquet"
+    },
+    {
+      "dataframe": "regulatory_agent_relationships",
+      "rows": 573,
+      "columns": 13,
+      "file": "regulatory_agent_relationships.parquet"
+    },
+    {
+      "dataframe": "regulatory_outlet_relationships",
+      "rows": 1121,
+      "columns": 13,
+      "file": "regulatory_outlet_relationships.parquet"
+    },
+    {
+      "dataframe": "regulatory_source_register",
+      "rows": 22,
+      "columns": 13,
+      "file": "regulatory_source_register.parquet"
+    },
+    {
+      "dataframe": "bangladesh_wallet_monthly",
+      "rows": 14,
+      "columns": 12,
+      "file": "bangladesh_wallet_monthly.parquet"
+    },
+    {
+      "dataframe": "provider_benchmarks",
+      "rows": 1,
+      "columns": 14,
+      "file": "provider_benchmarks.parquet"
+    },
+    {
+      "dataframe": "colombia_remittances_monthly",
+      "rows": 31,
+      "columns": 21,
+      "file": "colombia_remittances_monthly.parquet"
+    },
+    {
+      "dataframe": "india_rbi_country_panel",
+      "rows": 9,
+      "columns": 6,
+      "file": "india_rbi_country_panel.parquet"
+    },
+    {
+      "dataframe": "florida_msb_records",
+      "rows": 42656,
+      "columns": 35,
+      "file": "florida_msb_records.parquet"
+    },
+    {
+      "dataframe": "source_documents",
+      "rows": 3,
+      "columns": 4,
+      "file": "source_documents.parquet"
+    },
+    {
+      "dataframe": "source_manifest",
+      "rows": 20,
+      "columns": 7,
+      "file": "source_manifest.parquet"
+    }
+  ]
+}
